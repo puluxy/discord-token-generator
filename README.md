@@ -1,5 +1,5 @@
 # Potentially Patched
-Accounts will most likely get banned on creation, meaning you can't do anything with the accounts. Feel free to star this project because it is going to be updated and remade. Please don't ask me for NordVpn accounts, my stack of 50000 accounts just got locked. Contact - jonah#1337 (questions & help)
+If you have an account creator and validator problem, you can come to discord. there is a link below
 
 # Requirements / Setting up
 There will be a few things you will need in order to run this program on your machine.
