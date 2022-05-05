@@ -44,7 +44,7 @@ text = f"""{Fore.RED}
                         |_____/|_|___/\___\___/|_|  \__,_|  \_____|_|  \___|\__,_|\__\___/|_|   
                         
                                                      
-                                                  {Fore.RESET}{Fore.RED}   Made by Jonah {Fore.RESET}                                                                                                                                                                                                                                                                                                                            
+                                                  {Fore.RESET}{Fore.RED}   Made by Puluxy {Fore.RESET}                                                                                                                                                                                                                                                                                                                            
 """
 
 
