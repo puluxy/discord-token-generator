@@ -29,7 +29,7 @@ tokenwebhook = config.get('tokenwebhook')
 months = ['December', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November']
 
 selection_month = random.choice(months)
-selection_day = random.randint(1,28)
+selection_day = random.randint(1,29)
 
 
 
